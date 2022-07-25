@@ -11,7 +11,7 @@ include 'header.php';
 
       if(mysqli_num_rows($result) > 0)  {
     ?>
-    <table cellpadding="7px">
+    <table cellpadding="8px">
         <thead>
         <th>Id</th>
         <th>Name</th>
